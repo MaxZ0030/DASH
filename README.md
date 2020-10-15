@@ -9,3 +9,4 @@ The script PlayerControl.cs contains the code for the Player object in our game.
 
 -Press Start (https://www.youtube.com/channel/UCe45-2uomTfrnGZwJcATeUA)
 
+Note: Not all code inside PlayerControl.cs is released.
